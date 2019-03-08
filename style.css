@@ -1,5 +1,7 @@
-font-family: arial, helvetica, serif
-p: {
+body{
+    font-family: arial, helvetica, serif
+}
+p {
     font-size: 14px;
-    color: #f00;
+    color: green;
 }
