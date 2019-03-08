@@ -1,2 +1,4 @@
 font-family: arial, helvetica, serif
-<p color: #f00>
+p {
+    color: #f00
+}
