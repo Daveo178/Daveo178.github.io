@@ -17,7 +17,7 @@ div.container4 {
     position: relative
 }
 
-div.container4 p {
+div.container5 {
     margin: 0;
     position: absolute;
     top:    50%;
@@ -25,3 +25,4 @@ div.container4 p {
     margin-right: 50%;
     transform: translate(-50%, -50%)
 }
+
